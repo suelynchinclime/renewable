@@ -1,4 +1,5 @@
 <?php
 $x = 1;
-echo $x;
+$y = 2;
+echo $y;
 ?>
